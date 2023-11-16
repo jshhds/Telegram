@@ -1,0 +1,49 @@
+body {
+
+    background-color: #25282d;
+}
+.messenger{
+    width: 160px;
+    height: 160px;
+    display: flex;
+    margin-left:650px;
+}
+.country{
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+    font-family: "Roboto",-apple-system,apple color emoji,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    margin-left:600px;
+    font-size: 16px;
+}
+.number{
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+    font-family: "Roboto",-apple-system,apple color emoji,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    margin-left:600px;
+    margin-top:10px;
+    font-size: 16px;
+
+}
+.button{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    margin-top:10px;
+    font-size: 28px;
+    font-family: "Roboto",-apple-system,apple color emoji,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    text-align: center;
+    margin-left:700px;
+
+
+}
+.login{
+color: white;
+    text-align: center;
+    font-family: "Roboto",-apple-system,apple color emoji,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 32px;
+}
+
+/*chat style*/
+
